@@ -1,0 +1,11 @@
+Add Terry 4111111111111111 $1500
+Add Lowell 5454545454545454 $2000
+Add Quinton 4444444444444444 $1000
+Add Anthony 5500000000000004 $5000
+Credit Terry $1000
+Credit Terry $2500
+Credit Lowell $2000
+Credit Lowell $3000
+Credit Lowell $1000
+Credit Quinton $1200
+Credit Anthony $1500
